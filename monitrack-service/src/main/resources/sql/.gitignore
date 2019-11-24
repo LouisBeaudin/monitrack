@@ -1,0 +1,14 @@
+/002_person_table.sql
+/003_location_table.sql
+/004_mac_ip_addresses.sql
+/005_sensors_tables.sql
+<<<<<<< HEAD
+/006_sensor_shop_table.sql
+/007_mac_address.sql
+/008_sensor_mock.sql
+/009_sensor_shop_mock.sql
+/010_sensor_configuration_mock - Copie.sql
+/010_sensor_configuration_mock.sql
+=======
+/007_mac_address.sql
+>>>>>>> refs/remotes/origin/r3_dansoko_cheikna_alerts_monitoring

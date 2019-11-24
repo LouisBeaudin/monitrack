@@ -1,0 +1,8 @@
+name;center;floor;wing;area
+Salle de jeux;;-1;NORD;150
+Salle de lecture;;2;SUD;100
+Couloir;;3;SUD;300
+Salle de sport;;0;OUEST;100
+Salle d'attente;;1;EST;50
+Hall;;0;OUEST;200
+Salle à manger;;1;NORD;200
